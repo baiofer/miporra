@@ -1,6 +1,6 @@
 This is the Next.js versión of miPorra project.
 
-To run tha application, clone the repository and install dependencies
+To run the application, clone the repository and install dependencies
 
 ```
 $ git clone https://github.com/baiofer/miporra.git
